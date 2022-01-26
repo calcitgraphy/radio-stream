@@ -1,0 +1,83 @@
+[
+
+  {
+    "name": "SHA FM",
+    "url": "http://209.133.216.3:7073/;stream.mp3",
+    "tumbnail": "images/logo_shaafm.jpg"
+  },
+  {
+    "name": "HIRU FM",
+    "url": "http://209.133.216.3:7018/;",
+    "tumbnail": "images/logo_hirufm.jpg"
+  },
+  {
+    "name": "SHREE FM",
+    "url": "https://207.148.74.192:7874/stream2.mp3",
+    "tumbnail": "images/logo_shreefm.jpg"
+  },
+  {
+    "name": "NETH FM",
+    "url": "http://69.46.24.226:7669/stream",
+    "tumbnail": "images/logo_nethfm.jpg"
+  },
+  {
+    "name": "SIRASA FM",
+    "url": "http://live.trusl.com:1170/;",
+    "tumbnail": "images/logo_sirasafm.jpg"
+  },
+  {
+    "name": "HART FM",
+    "url": "https://eu9.fastcast4u.com/proxy/fmheartlive?mp=/1",
+    "tumbnail": "images/logo_hartfm.jpg"
+  },
+  {
+    "name": "RANGIRI FM",
+    "url": "http://tachyon.shoutca.st:8827/;",
+    "tumbnail": "images/logo_shaafm.jpg"
+  },
+  {
+    "name": "Y FM FM",
+    "url": "http://live.trusl.com:1180/;",
+    "tumbnail": "Images/logo_yfm.jpg"
+  },
+  {
+    "name": "SUN FM",
+    "url": "http://209.133.216.3:7058/;stream.mp3",
+    "tumbnail": "Images/logo_Sunfm.jpg"
+  },
+  {
+    "name": "RHYTHM FM",
+    "url": "http://live.tnlrn.com:8030/live.mp3",
+    "tumbnail": "Images/logo_rhythmfm.jpg"
+  },
+  {
+    "name": "DERANA FM",
+    "url": "https://us10a.serverse.com/proxy/fmderana?mp=/stream",
+    "tumbnail": "Images/logo_fmderana.jpg"
+  },
+  {
+    "name": "GOLD FM",
+    "url": "Images/logo_goldfm.jpg",
+    "tumbnail": "Images/logo_fmderana.jpg"
+  },
+  {
+    "name": "SIYATHA FM",
+    "url": "http://s3.voscast.com:8408/;stream1416040909272/1",
+    "tumbnail": "Images/logo_siyathafm.jpg"
+  },
+  {
+    "name": "CITY FM",
+    "url": "http://220.247.227.20:8000/citystream",
+    "tumbnail": "Images/logo_slbccityfm.jpg"
+  },
+  {
+    "name": "SLBC SINHALA FM",
+    "url": "http://220.247.227.6:8000/Snsstream",
+    "tumbnail": "Images/logo_slbcsinhala.jpg"
+  },
+  {
+    "name": "LAK HANDA",
+    "url": "https://cp12.serverse.com/proxy/itnfm?mp=/stream",
+    "tumbnail": "Images/logo_lakhandaradio.jpg"
+  }
+]
